@@ -51,10 +51,6 @@ The CART method has lighter tones after chromatic aberration correction, the Min
 ![image](https://github.com/arimorihideki/PARAPHRASER/assets/169983901/2623ef0d-034a-49a5-b33c-00032e79dbb7)
 
 
-## 广告推荐
-
-推荐一个虚拟信用卡开卡平台，包含香港、美国万事达VISA等多种卡头，0月费使用门槛极低，微信支付宝均可开通使用。支持开通各类海外平台：ChatGPT、Netflix、OnlyFans、Ebay、Shopify、Github、TikTok、Paypal 等各类订阅海淘平台。点击查看详情：[https://www.fomepay.com/](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
-
 大家感兴趣的可以去试试这些工具，提升科研效率。
 
 更多详情请访问：[Paraphraser.io](https://www.paraphraser.io/zh/paraphrase-tool) 和 [Quillbot](https://quillbot.com/)。
